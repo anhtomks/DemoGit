@@ -1,3 +1,3 @@
-function jerry () {
-	
+function jerry (name) {
+	this.name = name;
 }
