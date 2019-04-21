@@ -1,1 +1,5 @@
-funtion tom() {}
+function tom() {
+
+}
+
+module.exports = tom;
